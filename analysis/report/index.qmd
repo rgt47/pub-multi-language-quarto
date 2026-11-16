@@ -254,9 +254,6 @@ when you build to HTML.
 different countries: distinct languages exchanged into
 one common output.](media/images/ambiance2.jpg){.img-fluid height=3.5in}
 
-*Python integration through reticulate is often the first
-multi-language feature Quarto users encounter.*
-
 # Verifying Each Language
 
 Before combining all four languages in a single document,
@@ -622,7 +619,7 @@ R and RStudio remain functional without any of the above.
 
 ![UCSD Geisel Library: a reminder that good
 documentation, like good architecture, requires careful
-structural planning.](media/images/ambiance3.png)
+structural planning.](media/images/ambiance3.jpg)
 {.img-fluid}
 
 *The best technical configurations, like the best
